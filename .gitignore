@@ -2,3 +2,6 @@ dalab/*
 dalab 
 *.pdf
 valago.ipynb
+*.txt
+Dataset/
+*.csv
